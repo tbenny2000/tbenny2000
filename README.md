@@ -1,44 +1,28 @@
 # Hi there, I'm Beniamin Tacota 👋
 
-I am a Full-Stack Software Developer and IT Systems Specialist based in Georgia, USA. I build secure, scalable backend architectures, automate corporate data pipelines, and design robust web systems. 
+I am a Full-Stack Software Developer and IT Systems Specialist based in Georgia, USA, specializing in secure backend architectures, data pipelines, and robust web systems.
 
 ### 🚀 About Me:
-- 🎓 **Education:** B.S. in Information Technology Development from Georgia Gwinnett College.
-- 💻 **Bootcamp Graduate:** Per Scholas Immersive Full-Stack Java Engineering Program.
-- ⚡ **Engineering Mindset:** Highly proficient in AI-assisted developer workflows (Cursor, Copilot, Claude) to accelerate code velocity, catch edge-case exceptions, and scale automation structures.
-- 🛠️ **Real-World Focus:** Background in database auditing, transaction logging tracking, and technical vendor coordination.
+- 🎓 **Education:** B.S. in IT Development from Georgia Gwinnett College & Per Scholas Java Engineering graduate.
+- ⚡ **Engineering Mindset:** Proficient in AI-assisted workflows (Cursor, Copilot, Claude) and real-world database auditing.
 
 ---
 
-### 🛠️ Technical Ecosystem & Badges:
-
-```javascript
-const beniamin = {
-    languages: ["Java", "SQL", "JavaScript", "Python", "PHP", "HTML5", "CSS3"],
-    frameworks: ["Spring Boot", "Spring Security", "Spring Data JPA", "Hibernate", "Node.js"],
-    databases: ["MySQL", "Oracle SQL", "MongoDB", "Firebase Firestore"],
-    methodologies: ["Agile/Scrum", "Object-Oriented Programming (OOP)", "RESTful APIs", "Data Modeling"]
-};
-```
+### 🛠️ Technical Ecosystem:
+- **Languages:** Java, SQL, JavaScript, Python, PHP, HTML5, CSS3
+- **Frameworks:** Spring Boot, Spring Security, Hibernate, Node.js
+- **Databases:** MySQL, Oracle SQL, MongoDB, Firebase Firestore
 
 ---
 
-### 📂 Highlighted Architecture Projects:
-
-#### ⚽ [The Soccer Store — Full-Stack E-Commerce Platform](https://github.com)
-- Designed an end-to-end relational e-commerce application processing live transactional browsing, filtering, and purchase pipelines.
-- Configured a multi-tier role-based access control architecture (Admin/User permissions) using **Spring Security** and secure **BCrypt password hashing**.
-- Engineered data layer persistence mapping utilizing **Spring Data JPA** feeding directly into a clustered **MySQL database**.
-- *Stack: Java, Spring Boot, Spring Data JPA, MySQL, JavaScript, Maven, HTML5/CSS3*
-
-#### 👥 [Agile Team Portal Capstone](https://github.com)
-- Served as Developer and Project Manager leading a 7-member cross-functional Agile team to ship a client-spec adaptive web platform.
-- Scripted data-secure registration pipelines integrating distributed client connections directly with cloud **Firebase Firestore** clusters.
-- *Stack: JavaScript, Firebase Firestore, Git, Scrum/Agile Sprint Ceremonies*
+### 📂 Key Repositories:
+- **[Capstone2024](https://github.com):** Agile team portal led as PM/Developer, integrating Firebase Firestore.
+- **[MiniGame1Updated](https://github.com):** Java OOP-driven interactive application.
+- **[SchoolCalendar Engine](https://github.com):** Front-end study session tracker using native JavaScript DOM.
 
 ---
 
 ### 📫 Connect With Me:
-- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com/)
+- 💼 **LinkedIn:** [linkedin.com/in/beniamin-tacota](https://www.linkedin.com/in/beniamin-tacota/)
 - 📧 **Email:** tbenny2000@yahoo.com
-- 📍 **Location:** Greater Atlanta Area, GA (Open to On-Site, Hybrid, & Remote Roles)
+- 📍 **Location:** Greater Atlanta Area, GA
