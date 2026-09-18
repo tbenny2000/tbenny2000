@@ -24,6 +24,6 @@ I am a Full-Stack Software Developer and IT Systems Specialist based in Georgia,
 
 ### 📫 Connect With Me:
 - 💼 **LinkedIn Profile:** [linkedin.com/in/beniamin-tacota](https://www.linkedin.com/in/beniamin-tacota)
-- 🐙 **GitHub Portfolio:** [github.com/tbenny2000](https://github.com/tbenny2000
+- 🐙 **GitHub Portfolio:** [github.com/tbenny2000](https://github.com/tbenny2000)
 - 📧 **Email Address:** tbenny2000@yahoo.com
 - 📍 **Location:** Greater Atlanta Area, GA
